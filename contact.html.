@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Contact Vertigen BioWorks</h1>
+    </header>
+
+    <section>
+        <p>Email us at <a href="mailto:info@vertigenbioworks.com">info@vertigenbioworks.com</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Vertigen BioWorks</p>
+    </footer>
+</body>
+</html>
