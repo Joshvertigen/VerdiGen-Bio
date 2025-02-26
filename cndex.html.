@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vertigen BioWorks</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="assets/logo.png" alt="Vertigen BioWorks Logo">
+        <h1>Welcome to Vertigen BioWorks</h1>
+        <p>Innovative Hyacinth-Based BioFertilizers</p>
+    </header>
+
+    <section>
+        <h2>About Our Fertilizer</h2>
+        <p>We turn invasive water hyacinths into powerful, organic liquid fertilizer for sustainable farming.</p>
+    </section>
+
+    <footer>
+        <p>Contact us: info@vertigenbioworks.com</p>
+    </footer>
+</body>
+</html>
